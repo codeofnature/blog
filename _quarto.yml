@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: "Code of Nature"
-  description: "Nature and Technology"
+  title: "Kod Natury"
+  description: "Środowisko i Technologia"
   page-footer:
     left: "Blog made with [Quarto](https://quarto.org/), by Marcin. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     right:
@@ -17,7 +17,7 @@ website:
     right:
       - text: Blog
         href: blog.qmd 
-      - text: Ressources
+      - text: Ciekawe
         menu: 
           - text: ENVIPLAN
             href: https://enviplan.pl
@@ -27,7 +27,7 @@ website:
             href: https://rweekly.org/
           - text: R Bloggers
             href: https://www.r-bloggers.com/
-      - text: Archive
+      - text: Archiwa
         href: archive.qmd
   google-analytics: <Insert your ID here>
   cookie-consent: true
