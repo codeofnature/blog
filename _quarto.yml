@@ -4,20 +4,49 @@ project:
 website:
   title: "Code of Nature"
   description: "Nature and Technology"
+  page-footer:
+    left: "Blog made with [Quarto](https://quarto.org/), by Marcin. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    right:
+      - icon: github
+        href: https://github.com/codeofnature
+      - icon: twitter
+        href: https://twitter.com/_CodeOfNature_
+      - icon: envelope
+        href: mailto:aranjaka@gmail.com
   navbar:
     right:
       - text: Blog
         href: blog.qmd 
-      - icon: github
-        href: https://github.com/AlbertRapp
-      - icon: twitter
-        href: https://twitter.com/rappa753
-      - icon: youtube
-        href: https://www.youtube.com/user/Alfrodo123
+      - text: Ressources
+        menu: 
+          - text: ENVIPLAN
+            href: https://enviplan.pl
+          - text: Data School
+            href: https://www.dataschool.io/resources/
+          - text: R Weekly
+            href: https://rweekly.org/
+          - text: R Bloggers
+            href: https://www.r-bloggers.com/
+      - text: Archive
+        href: archive.qmd
+  google-analytics: <Insert your ID here>
+  cookie-consent: true
+  twitter-card: 
+    image: thumbnail_blog.png
+    card-style: summary_large_image
+    creator: "@_CodeofNature_"
+
 format:
   html:
-    theme: cosmo
+    smooth-scroll: true
+    theme: journal
     css: styles.css
+    link-external-icon: false
+    link-external-newwindow: true
+    citations-hover: true
+    footnotes-hover: true
+    include-in-header: meta.html
+    toc: true
+    code-link: true 
 
 editor: visual
-

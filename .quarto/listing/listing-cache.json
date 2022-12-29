@@ -1,7 +1,16 @@
 {
   "listingMap": {
+    "archive.qmd": [
+      "posts/**/*.qmd"
+    ],
     "blog.qmd": [
-      "posts"
+      "posts/**/*.qmd",
+      "posts/**/en/*.qmd",
+      "posts/**/pt/*.qmd",
+      "talks/{pt,es,en}/*/index.qmd",
+      "posts/**/*/index.qmd",
+      "posts/**/es/*.qmd",
+      "posts/**/.qmd"
     ]
   }
 }

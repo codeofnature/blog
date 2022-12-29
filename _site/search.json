@@ -1,17 +1,24 @@
 [
   {
+    "objectID": "archive.html",
+    "href": "archive.html",
+    "title": "Archive",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\n\n\n\n\n\n\nThis is a dummy blog posts\n\n\n\n\n\n\n\n\n\nJun 1, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Code of Nature",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a dummy blog posts\n\n\n\n\n\n\n\n123\n\n\nSecond Tag\n\n\n\n\nThis is a test post. In this post, I try out different functionalities\n\n\n\n\n\n\nJun 1, 2022\n\n\nMarcin\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n \n\n\n\n\nDec 28, 2022\n\n\nHarlow Malloc\n\n\n0 min\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n \n\n\n\n\nDec 25, 2022\n\n\nTristan O’Malley\n\n\n0 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a dummy blog posts\n\n\n\n\n\n\n\n123\n\n\nSecond Tag\n\n\n \n\n\n\n\nJun 1, 2022\n\n\nMarcin\n\n\n3 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Nature and Technology"
   },
   {
     "objectID": "posts/first_post/first_post.html",

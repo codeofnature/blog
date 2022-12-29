@@ -16,5 +16,8 @@
   },
   "posts/first_post/first_post.qmd": {
     "first_post.html": "e3ab6557"
+  },
+  "archive.qmd": {
+    "archive.html": "760c85e8"
   }
 }
