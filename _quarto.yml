@@ -27,8 +27,6 @@ website:
             href: https://rweekly.org/
           - text: R Bloggers
             href: https://www.r-bloggers.com/
-      - text: Archiwa
-        href: archive.qmd
   google-analytics: <Insert your ID here>
   cookie-consent: true
   twitter-card: 
