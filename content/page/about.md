@@ -1,16 +1,22 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why You'd Want to Work With Me
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Marcin. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am passionate about nature, spatial data analysis and technology.
 
-What else do you need?
+- I automate processes to enhance work efficiency
 
-### my history
+- I continuously develop my skills in technology and environmental science
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+### My Journey
+
+Over the years, I have gained experience in environmental impact assessments and spatial data analysis. 
+Currently, I am expanding my expertise in machine learning, GIS, and cloud computing.    
+Want to learn more?    
+Follow my blog, where I combine environment and technology in practical projects!

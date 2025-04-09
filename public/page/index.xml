@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Kod Natury</title>
-    <link>//localhost:1313/page/</link>
-    <description>Recent content in Pages on Kod Natury</description>
+    <title>Pages on Code of Nature</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Code of Nature</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>//localhost:1313/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>//localhost:1313/page/about/</guid>
-      <description>&lt;p&gt;My name is Inigo Montoya. I have the following qualities:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I rock a great mustache&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;m extremely loyal to my family&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;What else do you need?&lt;/p&gt;&#xA;&lt;h3 id=&#34;my-history&#34;&gt;my history&lt;/h3&gt;&#xA;&lt;p&gt;To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29&#34;&gt;my movie&lt;/a&gt; and it will answer &lt;strong&gt;all&lt;/strong&gt; your questions.&lt;/p&gt;</description>
+      <guid>/page/about/</guid>
+      <description>&lt;p&gt;My name is Marcin. I have the following qualities:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I am passionate about nature, spatial data analysis and technology.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I automate processes to enhance work efficiency&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I continuously develop my skills in technology and environmental science&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;my-journey&#34;&gt;My Journey&lt;/h3&gt;&#xA;&lt;p&gt;Over the years, I have gained experience in environmental impact assessments and spatial data analysis.&#xA;Currently, I am expanding my expertise in machine learning, GIS, and cloud computing. &lt;br&gt;&#xA;Want to learn more? &lt;br&gt;&#xA;Follow my blog, where I combine environment and technology in practical projects!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

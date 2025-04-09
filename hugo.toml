@@ -1,6 +1,6 @@
 baseurl = ""
 DefaultContentLanguage = "en"
-title = "Kod Natury"
+title = "Code of Nature"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -19,12 +19,12 @@ pygmentsCodefencesGuessSyntax = true
     # id = "XXX"
 
 [Params]
-# homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+# homeTitle = "Code of Nature" # Set a different text for the header on the home page
+  subtitle = "Environment and Technology"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "2006-01-02"
   commit = false
   rss = true
   comments = true
