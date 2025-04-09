@@ -1,4 +1,4 @@
-baseurl = "https://codeofnature.github.io/blog/"
+baseurl = ""
 DefaultContentLanguage = "en"
 title = "Code of Nature"
 # Using theme as git submodule 
